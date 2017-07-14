@@ -2,7 +2,7 @@
 
 Fetches Bitcoin price from Coindesk api.
 
-##Initalisation
+## Initalisation
 
 First import the libary, then initiate like so:
 
@@ -18,11 +18,11 @@ Currencies:
 - EUR
 - GBP
 
-##Functions
+## Functions
 
 - UpdatePrice() 
 
-##Vairables
+## Vairables
 
 - .rate 
 - .currency
